@@ -12,7 +12,7 @@ learn cocos2d-x
 ## <a href="https://gitee.com/120910383/mota.git">使用cocos2d-x-3.x开发的魔塔大冒险小游戏开源版，GitHub地址 https://github.com/120910383/mota 同步更新</a>
 ## <a href="https://github.com/appleappleapple/GameOfShooting">《雷电大战》源码与资源</a>
 ## <a href="https://github.com/icsfy/cocos2d-x_FruitandBird">cocos2d休闲类游戏--Fruit & Bird</a>
-## <a href=""></a>
+## <a href="https://github.com/manshuoquan/book-code">Cocos2D-X: The Definitive Guide</a>
 ## <a href=""></a>
 ## <a href=""></a>
 ## <a href=""></a>
