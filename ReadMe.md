@@ -13,9 +13,9 @@ learn cocos2d-x
 ## <a href="https://github.com/appleappleapple/GameOfShooting">《雷电大战》源码与资源</a>
 ## <a href="https://github.com/icsfy/cocos2d-x_FruitandBird">cocos2d休闲类游戏--Fruit & Bird</a>
 ## <a href="https://github.com/manshuoquan/book-code">Cocos2D-X: The Definitive Guide</a>
-## <a href=""></a>
-## <a href=""></a>
-## <a href=""></a>
+## <a href="https://github.com/okankayhan/space-shooter"><cocos2d-x demo game/a>
+## <a href="https://github.com/yaggio/Nin">cocos2dx 3.3 game</a>
+## <a href="https://github.com/Rockncoder/PlaneGame2">飞机游戏</a>
 ## <a href=""></a>
 ## <a href=""></a>
 ## <a href=""></a>
