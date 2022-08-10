@@ -1,0 +1,1 @@
+建模软件spine，运行install.bat激活，然后可以正常使用
